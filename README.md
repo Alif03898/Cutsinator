@@ -1,2 +1,2 @@
 # Cutsinator
-The Cutscene Modding For GTA V but it's in the real dev. I'm currently making a cutscene modding tool for blender, but its messed up. I made this via AI (from blackbox.ai) I trying to use a VSE on regions, is much more worse. dexyfex or skylumz, if you're seeing this, fork this project (a.k.a copy) to your project.
+The GTA V Cutscene Modding For Blender but it's in the real dev. I'm currently making a cutscene modding tool for blender, but its messed up. and only generates plane, and a regions on VSE. (Video Sequencer editor) I made this via AI (from blackbox.ai) I trying to use a VSE on regions, it's much more worse. dexyfex or skylumz, if you're seeing this, fork this project (a.k.a copy) to your project.
